@@ -1,0 +1,108 @@
+^Assets\Textures\CCDrawingPixelShader.hlsl
+^Assets\Textures\CCDrawingVertexShader.hlsl
+^Assets\Textures\CCGridPixelShader.hlsl
+^Assets\Textures\CCGridVertexShader.hlsl
+^Assets\Textures\CCLayerColorPixelShader.hlsl
+^Assets\Textures\CCLayerColorVertexShader.hlsl
+^Assets\Textures\CCParticlePixelShader.hlsl
+^Assets\Textures\CCParticleVertexShader.hlsl
+^Assets\Textures\CCProgressTimerPixelShader.hlsl
+^Assets\Textures\CCProgressTimerVertexShader.hlsl
+^Assets\Textures\CCRibbonSegmentPixelShader.hlsl
+^Assets\Textures\CCRibbonSegmentVertexShader.hlsl
+^Assets\Textures\CCSpritePixelShader.hlsl
+^Assets\Textures\CCSpriteVertexShader.hlsl
+^Assets\Textures\CCTexture2DPixelShader.hlsl
+^Assets\Textures\CCTexture2DVertexShader.hlsl
+^Assets\Textures\CCTextureAtlasPixelShader.hlsl
+^Assets\Textures\CCTextureAtlasVertexShader.hlsl
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCDrawingPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCDrawingVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCGridPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCGridVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCLayerColorPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCLayerColorVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCParticlePixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCParticleVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCProgressTimerPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCProgressTimerVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCRibbonSegmentPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCRibbonSegmentVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCSpritePixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCSpriteVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTexture2DPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTexture2DVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTextureAtlasPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTextureAtlasVertexShader.cso
+^Assets\Textures\CCDrawingPixelShader.hlsl
+^Assets\Textures\CCDrawingVertexShader.hlsl
+^Assets\Textures\CCGridPixelShader.hlsl
+^Assets\Textures\CCGridVertexShader.hlsl
+^Assets\Textures\CCLayerColorPixelShader.hlsl
+^Assets\Textures\CCLayerColorVertexShader.hlsl
+^Assets\Textures\CCParticlePixelShader.hlsl
+^Assets\Textures\CCParticleVertexShader.hlsl
+^Assets\Textures\CCProgressTimerPixelShader.hlsl
+^Assets\Textures\CCProgressTimerVertexShader.hlsl
+^Assets\Textures\CCRibbonSegmentPixelShader.hlsl
+^Assets\Textures\CCRibbonSegmentVertexShader.hlsl
+^Assets\Textures\CCSpritePixelShader.hlsl
+^Assets\Textures\CCSpriteVertexShader.hlsl
+^Assets\Textures\CCTexture2DPixelShader.hlsl
+^Assets\Textures\CCTexture2DVertexShader.hlsl
+^Assets\Textures\CCTextureAtlasPixelShader.hlsl
+^Assets\Textures\CCTextureAtlasVertexShader.hlsl
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCDrawingPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCDrawingVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCGridPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCGridVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCLayerColorPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCLayerColorVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCParticlePixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCParticleVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCProgressTimerPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCProgressTimerVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCRibbonSegmentPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCRibbonSegmentVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCSpritePixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCSpriteVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTexture2DPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTexture2DVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTextureAtlasPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTextureAtlasVertexShader.cso
+^Assets\Textures\CCDrawingPixelShader.hlsl
+^Assets\Textures\CCDrawingVertexShader.hlsl
+^Assets\Textures\CCGridPixelShader.hlsl
+^Assets\Textures\CCGridVertexShader.hlsl
+^Assets\Textures\CCLayerColorPixelShader.hlsl
+^Assets\Textures\CCLayerColorVertexShader.hlsl
+^Assets\Textures\CCParticlePixelShader.hlsl
+^Assets\Textures\CCParticleVertexShader.hlsl
+^Assets\Textures\CCProgressTimerPixelShader.hlsl
+^Assets\Textures\CCProgressTimerVertexShader.hlsl
+^Assets\Textures\CCRibbonSegmentPixelShader.hlsl
+^Assets\Textures\CCRibbonSegmentVertexShader.hlsl
+^Assets\Textures\CCSpritePixelShader.hlsl
+^Assets\Textures\CCSpriteVertexShader.hlsl
+^Assets\Textures\CCTexture2DPixelShader.hlsl
+^Assets\Textures\CCTexture2DVertexShader.hlsl
+^Assets\Textures\CCTextureAtlasPixelShader.hlsl
+^Assets\Textures\CCTextureAtlasVertexShader.hlsl
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCDrawingPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCDrawingVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCGridPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCGridVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCLayerColorPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCLayerColorVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCParticlePixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCParticleVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCProgressTimerPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCProgressTimerVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCRibbonSegmentPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCRibbonSegmentVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCSpritePixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCSpriteVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTexture2DPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTexture2DVertexShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTextureAtlasPixelShader.cso
+E:\Program Files\td2\cocos2dx-0.13.0-wp8-0.8\Win32\Debug\tests\CCTextureAtlasVertexShader.cso

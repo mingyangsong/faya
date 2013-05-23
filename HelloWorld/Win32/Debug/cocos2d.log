@@ -1,0 +1,12 @@
+﻿Build started 4/22/2013 11:53:36 PM.
+     1>Project "C:\Users\my\Desktop\faya\HelloWorld\cocos2d.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         cocos2d.vcxproj -> C:\Users\my\Desktop\faya\\Win32\Debug\cocos2d\faya.exe
+       XapPackager:
+         Begin Xap packaging
+         No changes detected. Xap package is up to date
+     1>Done Building Project "C:\Users\my\Desktop\faya\HelloWorld\cocos2d.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.57
